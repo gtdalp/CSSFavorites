@@ -9,6 +9,7 @@
 |-
 | https://developer.mozilla.org/zh-CN/ || Mozilla 开发者网络
 |-
-
+| http://webdeveloperbareilly.in/blog/css3/onepage-scroll-template-demo.html || 全屏切换
+|-
 |}
 
