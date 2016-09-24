@@ -11,5 +11,9 @@
 |-
 | http://webdeveloperbareilly.in/blog/css3/onepage-scroll-template-demo.html || 全屏切换
 |-
+| https://everythingfonts.com/woff-to-ttf || woff-to-ttf转换
+|-
+| http://caniuse.com/ || 检测api兼容性
+|-
 |}
 
