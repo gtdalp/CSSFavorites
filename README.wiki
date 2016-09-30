@@ -35,3 +35,13 @@
 |-
 |}
 
+<h3>4、HTML5</h3>
+{|
+! 链接 !! 说明
+|-
+| http://www.html5tricks.com/demo/html5-whale/index.html || HTML5鲸鱼动画DEMO演示
+|-
+| http://www.css88.com/archives/5269 || 消除疑问：CSS动画 VS JavaScript
+|-
+|}
+
