@@ -33,6 +33,8 @@
 |-
 | http://xituqu.com/508.html || 微信小程序开发教程***
 |-
+| https://github.com/Aufree/awesome-wechat-weapp || 微信小应用资源汇总整理
+|-
 |}
 
 <h3>4、HTML5</h3>
