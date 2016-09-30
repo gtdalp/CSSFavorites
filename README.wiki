@@ -35,6 +35,8 @@
 |-
 | https://github.com/Aufree/awesome-wechat-weapp || 微信小应用资源汇总整理
 |-
+| https://github.com/justjavac/awesome-wechat-weapp || 微信小程序开发资源汇总
+|-
 |}
 
 <h3>4、HTML5</h3>
