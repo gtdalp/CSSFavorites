@@ -19,6 +19,8 @@
 |-
 | http://www.tuicool.com/articles/AJziIvU || 使用stylelint对CSS/Sass做代码审查
 |-
+| http://www.zhangxinxu.com/wordpress/2016/09/css-first-letter-pseudo-element/ || 深入CSS ::first-letter伪元素及其实例等
+|-
 |}
 
 <h3>2、图片处理</h3>
