@@ -53,6 +53,8 @@
 |-
 | http://www.css88.com/archives/5269 || 消除疑问：CSS动画 VS JavaScript
 |-
+| http://www.eqxiu.com/ || H5幻灯片
+|-
 |}
 
 <h3>5、产品设计</h3>
