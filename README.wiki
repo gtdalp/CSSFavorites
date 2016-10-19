@@ -21,6 +21,8 @@
 |-
 | http://www.zhangxinxu.com/wordpress/2016/09/css-first-letter-pseudo-element/ || 深入CSS ::first-letter伪元素及其实例等
 |-
+| https://cnbin.github.io/blog/2016/02/20/http-qing-qiu-,-xiang-ying-,-huan-cun/ || HTTP-请求、响应、缓存
+|-
 |}
 
 <h3>2、图片处理</h3>
