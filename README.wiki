@@ -23,6 +23,8 @@
 |-
 | https://cnbin.github.io/blog/2016/02/20/http-qing-qiu-,-xiang-ying-,-huan-cun/ || HTTP-请求、响应、缓存
 |-
+| http://www.cnblogs.com/rubylouvre/p/3471490.html || 用CSS开启硬件加速来提高网站性能（转）
+|-
 |}
 
 <h3>2、图片处理</h3>
