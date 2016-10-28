@@ -69,4 +69,12 @@
 |-
 |}
 
-
+<h3>6、常用知识点</h3>
+{|
+! 链接 !! 说明
+|-
+| http://tool.oschina.net/commons?type=5 || HTTP请求头状态码对照表
+|-
+| http://www1.w3cfuns.com/tools.php?mod=regex || 正则表达式
+|-
+|}
