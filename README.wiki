@@ -77,4 +77,6 @@
 |-
 | http://www1.w3cfuns.com/tools.php?mod=regex || 正则表达式
 |-
+| http://taobaofed.org/blog/2016/08/04/instructions-of-semver/ ||  论版本号的正确打开方式
+|-
 |}
