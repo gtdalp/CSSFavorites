@@ -33,6 +33,8 @@
 |-
 | https://tinypng.com/ || PNG压缩
 |-
+| http://jhtmls.com/h5psd/ || psd在线切图
+|-
 |}
 
 <h3>3、微信小程序</h3>
