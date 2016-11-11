@@ -92,4 +92,6 @@
 |-
 | http://gojs.net/latest/index.html?gclid=CJCuyI71oNACFRJ_vQodyaYBow ||  gojs
 |-
+| http://echarts.baidu.com || echarts
+|-
 |}
