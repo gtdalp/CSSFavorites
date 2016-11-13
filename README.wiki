@@ -96,4 +96,6 @@
 |-
 | http://echarts.baidu.com || echarts
 |-
+| http://www.fusioncharts.com || fusioncharts
+|-
 |}
