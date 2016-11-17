@@ -25,6 +25,8 @@
 |-
 | http://www.cnblogs.com/rubylouvre/p/3471490.html || 用CSS开启硬件加速来提高网站性能（转）
 |-
+| http://gbtags.com/gb/demoviewer/1868/3693baaa-5e96-4047-a837-a0520ec74824/css3d_periodictable.html.htm || css3元素周期表动画
+|-
 |}
 
 <h3>2、图片处理</h3>
