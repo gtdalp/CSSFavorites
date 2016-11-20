@@ -27,6 +27,8 @@
 |-
 | http://gbtags.com/gb/demoviewer/1868/3693baaa-5e96-4047-a837-a0520ec74824/css3d_periodictable.html.htm || css3元素周期表动画
 |-
+| http://www.iconfont.cn/plus || 阿里矢量图标库
+|-
 |}
 
 <h3>2、图片处理</h3>
