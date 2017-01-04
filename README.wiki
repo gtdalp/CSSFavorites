@@ -29,6 +29,8 @@
 |-
 | http://www.iconfont.cn/plus || 阿里矢量图标库
 |-
+| http://dabblet.com/gist/1745856 || css3 loading
+|-
 |}
 
 <h3>2、图片处理</h3>
