@@ -91,6 +91,8 @@
 |-
 | http://naotu.baidu.com/file/b3ff71353e0b04028d007d7be4b7b39b?token=9cf0c87def418cf0 || web知识点
 |-
+| http://fex.baidu.com/blog/2014/05/what-happen/?qq-pf-to=pcqq.c2c || 从输入 URL 到页面加载完成的过程中都发生了什么事情
+|-
 |}
 
 
