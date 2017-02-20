@@ -128,5 +128,7 @@
 |-
 | http://mp.weixin.qq.com/s/aBdCHKkNpjn7C5xOkDdQUQ || this
 |-
+| http://kangax.github.io/compat-table/es6/ || ES6浏览器支持情况
+|-
 |}
 
