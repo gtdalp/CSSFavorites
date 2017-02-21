@@ -130,5 +130,7 @@
 |-
 | http://kangax.github.io/compat-table/es6/ || ES6浏览器支持情况
 |-
+| http://lib.csdn.net/kittyjie/365772/chart/Front-End%20Dev%20Skills || 前端开发必学的三大方向
+|-
 |}
 
