@@ -95,6 +95,8 @@
 |-
 | http://naotu.baidu.com/file/cfbe65e06cb7783dfeb00e12d37ea9c2?token=5aefd72592104580 || 正则表达式
 |-
+| https://github.com/fouber/blog/issues/3 || 前端性能
+|-
 |}
 
 
