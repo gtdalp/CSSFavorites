@@ -144,6 +144,10 @@
 |-
 | https://cn.vuejs.org/v2/guide/ || vue2
 |-
+| http://guides.rubyonrails.org/asset_pipeline.html || Ruby on Rails 
+|-
+| https://github.com/fouber/static-resource-digest-project || FIS的解决方案
+|-
 |}
 <h3>9、鸡汤</h3>
 {|
