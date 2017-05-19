@@ -99,6 +99,8 @@
 |-
 | http://processon.com/  || 管理
 |-
+| http://www.infoq.com/cn/articles/sam-lessons-learned-front-end-reactive-architectures?utm_source=articles_about_Front-end&utm_medium=link&utm_campaign=Front-end  || SAM模式：构建函数响应式前端架构过程中学到的经验
+|-
 |}
 
 
