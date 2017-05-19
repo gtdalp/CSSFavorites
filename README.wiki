@@ -159,5 +159,12 @@
 |-
 |}
 
+<h3>9、常见bug</h3>
+{|
+! 链接 !! 说明
+|-
+| https://github.com/ant-design/ant-design-mobile/issues/732 || 高清方案在微信上，有时候字体会不受控制变的很大
+|-
+|}
 
 
